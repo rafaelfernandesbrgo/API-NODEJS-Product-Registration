@@ -1,4 +1,4 @@
-# Product registration NODE API
+# API NODEJS Product Registration
  NodeJS BackEnd for simple product registration, performing CRUD operations with Mongoose in MongoDB database
  
 ***
