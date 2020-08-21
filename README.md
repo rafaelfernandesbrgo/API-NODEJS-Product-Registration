@@ -3,11 +3,11 @@
  
 ***
 
-With routes, parameters, json, controllers, models, schemas, pagination, CORS, requireDir.
+With routes, parameters, Json, controllers, models, schemas, pagination, CORS, requireDir.
 
 ***
 
  (pr-br)
 
-Com rotas, parametros, json, controllers, models, schemas, paginação, CORS, requireDir.
+Com rotas, parâmetros, Json, controllers, models, schemas, paginação, CORS, requireDir.
 
